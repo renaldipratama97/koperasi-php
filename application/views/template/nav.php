@@ -66,6 +66,7 @@
                         <a class="collapse-item" href="<?= base_url('anggota/simpan') ?>">Simpanan</a>
                         <a class="collapse-item" href="<?= base_url('anggota/pinjam') ?>">Pinjam</a>
                         <a class="collapse-item" href="<?= base_url('anggota/pinjam/status_peminjaman') ?>">Status Peminjaman</a>
+                        <a class="collapse-item" href="<?= base_url('anggota/angsuran') ?>">Angsuran</a>
                     </div>
                 </div>
             </li>
